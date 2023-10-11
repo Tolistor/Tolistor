@@ -4,7 +4,8 @@
 
 ##### [Un Desarrollador Web Full-Stack de Colombia al 🌎](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
 
-![I am Harold](https://github.com/Tolistor/JobPreparation/assets/111602672/1f2bb632-b780-47d8-b650-13cb61e6f1c1)
+![I am Harold](https://github.com/Tolistor/Tolistor/assets/111602672/7b47e75f-9c35-4d32-ad91-254616b686c0)
+
 
 🙋🏻‍♂️ Me considero una persona orientada a resultados, que siempre está en búsqueda de conocimientos y experiencias profesionales desafiantes.
 👨🏻‍💻 Apasionado por la programación, los lenguajes, Me gustan los retos, aprender, los PROBLEMAS LÓGICOS, ayudar, compartir y vivir!!! .
@@ -22,15 +23,13 @@ Otros: Scrum, conseptos basicos de ciberseguridad
 
 ### [📌 Mis proyectos](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
 ##### Proyecto individual de videojuego Herny's Bootcamp 
-![Pi Videogames](https://github.com/Tolistor/JobPreparation/assets/111602672/24ba3b70-74d0-43d2-b56c-fac66e9b0fa1)
-
-
-### [📌 Mis proyectos](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
+![Pi Videogames](https://github.com/Tolistor/Tolistor/assets/111602672/a2701abc-9e64-4276-85b8-efee77dfb87c)
 
 
 
 ##### [Proyecto final del Bootcamp de Herny ](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
-![Captura de pantalla 2023-10-11 133638](https://github.com/Tolistor/JobPreparation/assets/111602672/4f20fec8-8dc0-4016-a469-b08864d02735)
+![Captura de pantalla 2023-10-11 133638](https://github.com/Tolistor/Tolistor/assets/111602672/4af2cdac-3f4c-4911-bf1d-2c16a77ab958)
+
 
 
 
