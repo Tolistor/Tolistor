@@ -32,8 +32,8 @@ Otros: Scrum, conseptos basicos de ciberseguridad
 
 
 ### [📲 Información de contacto](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
-Linkedin: https://www.linkedin.com/in/harold-david-gonzalez-usuga-973757262/
-Correo electrónico: hadavidg@gmail.com
+- Linkedin: https://www.linkedin.com/in/harold-david-gonzalez-usuga-973757262/
+- Correo electrónico: hadavidg@gmail.com
     
 
 
