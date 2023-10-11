@@ -1,6 +1,6 @@
 
 
-###[ Hola 👋, soy Harold](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
+### [ Hola 👋, soy Harold](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
 
 ##### [Un Desarrollador Web Full-Stack de Colombia al 🌎](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
 
@@ -22,7 +22,8 @@ Otros: Scrum, conseptos basicos de ciberseguridad
 
 
 ### [📌 Mis proyectos](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
-##### Proyecto individual de videojuego Herny's Bootcamp 
+
+##### [Proyecto individual de videojuego del Bootcamp de Herny ](https://github.com/Tolistor/JobPreparation/blob/main/README.md)
 ![Pi Videogames](https://github.com/Tolistor/Tolistor/assets/111602672/a2701abc-9e64-4276-85b8-efee77dfb87c)
 
 
